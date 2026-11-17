@@ -172,7 +172,7 @@ source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 jupyter notebook notebooks/Balanced_Kidney_disease.ipynb
 ```
-##Technologies and Libraries
+## Technologies and Libraries
 - Python
 - Google Colab
 - Pandas and NumPy
