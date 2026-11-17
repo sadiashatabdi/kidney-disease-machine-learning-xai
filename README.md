@@ -2,17 +2,17 @@
 
 Machine Learning and Explainable AI for Kidney Disease Analysis — Springer Published Research
 
-## Publication
-Chapter: Leveraging Machine Learning and Explainable AI for the Systematic Study of Kidney Disease
+## 📚 Publication
 
-Book: Innovations in Data Analytics
-Publisher: Springer Nature
-Conference: 4th International Conference on Innovations in Data Analytics (ICIDA 2025)
-Conference dates: 5–6 December 2025
-Publication year: 2026
-Pages: 434–444
-Author position: First Author  
-DOI: 10.1007/978-3-032-33698-9_31
+- **Chapter:** Leveraging Machine Learning and Explainable AI for the Systematic Study of Kidney Disease
+- **Book:** *Innovations in Data Analytics*
+- **Publisher:** Springer Nature
+- **Conference:** 4th International Conference on Innovations in Data Analytics (ICIDA 2025)
+- **Conference dates:** 5–6 December 2025
+- **Publication year:** 2026
+- **Pages:** 434–444
+- **Author position:** First Author
+- **DOI:** [10.1007/978-3-032-33698-9_31](https://doi.org/10.1007/978-3-032-33698-9_31)
 
 ---
 
