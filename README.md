@@ -156,8 +156,6 @@ jupyter notebook notebooks/Balanced_Kidney_disease.ipynb
 
 ## ⚠️ Limitations & Future Work
 
-- The dataset is public and largely synthetic-style; it is not clinically validated and should not be used for real patient diagnosis.
-- SMOTE is applied only to the training split after the train/test split, so the test set remains untouched. However, near-perfect performance suggests the dataset is highly separable.
 - Future work includes deeper hyperparameter tuning, ensemble methods, cross-validation on external cohorts, and richer clinical features.
 
 ---
