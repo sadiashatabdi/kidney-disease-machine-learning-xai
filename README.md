@@ -84,7 +84,7 @@ Dataset → Preprocessing → EDA → Clustering & Visualization → Feature Ana
 </p>
 
 <p align="center">
-  <img src="assets/roc-curves.png" width="60%" alt="ROC curves" />
+  <img src="assets/roc-curve.png" width="60%" alt="ROC curve" />
 </p>
 
 ### Statistical Findings
