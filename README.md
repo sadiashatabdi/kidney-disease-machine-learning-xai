@@ -79,7 +79,6 @@ Dataset → Preprocessing → EDA → Clustering & Visualization → Feature Ana
 | XGBoost | 98.80 | 100.00 | 97.67 | 98.82 |
 
 <p align="center">
-  <img src="assets/model-comparison.png" width="48%" alt="Model comparison" />
   <img src="assets/confusion-matrix.png" width="40%" alt="Confusion matrix (XGBoost)" />
 </p>
 
@@ -143,7 +142,6 @@ kidney-disease-machine-learning-xai/
 ├── Balanced_Kidney_disease.ipynb
 └── assets/
     ├── eda-visualizations.png
-    ├── model-comparison.png
     ├── confusion-matrix.png
     ├── roc-curves.png
     ├── shap-summary.png
