@@ -179,7 +179,6 @@ If you use this work, please cite the paper below:
 ```bibtex
 @inproceedings{shatabdi2026kidney,
   title     = {Leveraging Machine Learning and Explainable AI for the Systematic Study of Kidney Disease},
-  author    = {Shatabdi, Sadia and Mehajabin, Mariya and Mariam, Samia Jahan and Gani, Raiyan and Shams, Karib and Nobi, Md Mahmudun},
   booktitle = {Innovations in Data Analytics (ICIDA 2025)},
   series    = {Lecture Notes in Networks and Systems},
   volume    = {2099},
@@ -193,14 +192,6 @@ If you use this work, please cite the paper below:
 > Paper: https://doi.org/10.1007/978-3-032-33698-9_31
 
 ---
-
-## 👥 Authors
-
-**Sadia Shatabdi** (first author, technical implementation, presenter) · Mariya Mehajabin · Samia Jahan Mariam · Raiyan Gani (corresponding author) · Karib Shams · Md Mahmudun Nobi
-
-Department of Computer Science and Engineering, East West University, Dhaka, Bangladesh.
-
-📧 Contact: sadiashatabdi00@gmail.com
 
 ---
 
