@@ -11,8 +11,8 @@ Conference dates: 5–6 December 2025
 Publication year: 2026
 Pages: 434–444
 Author position: First Author  
-
 DOI: 10.1007/978-3-032-33698-9_31
+
 ---
 
 ## 📌 Overview
