@@ -2,8 +2,6 @@
 
 Machine Learning and Explainable AI for Kidney Disease Analysis — Springer Published Research
 
-
----
 ##Publication
 Chapter: Leveraging Machine Learning and Explainable AI for the Systematic Study of Kidney Disease
 Book: Innovations in Data Analytics
@@ -15,6 +13,8 @@ Pages: 434–444
 Author position: First Author  
 
 DOI: 10.1007/978-3-032-33698-9_31
+---
+
 ## 📌 Overview
 
 Chronic Kidney Disease (CKD) is a major global health burden, and late diagnosis can lead to severe complications. This project builds an interpretable machine learning pipeline that predicts CKD using patient clinical, lifestyle, and laboratory information, while also explaining why the model makes each decision.
