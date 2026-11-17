@@ -162,7 +162,17 @@ source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 jupyter notebook notebooks/Balanced_Kidney_disease.ipynb
 ```
-
+##Technologies and Libraries
+- Python
+- Google Colab
+- Pandas and NumPy
+- Matplotlib and Seaborn
+- SciPy
+- Scikit-learn
+- XGBoost
+- imbalanced-learn
+- SHAP
+- LIME
 ---
 
 ## ⚠️ Limitations & Future Work
