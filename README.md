@@ -109,6 +109,18 @@ LIME provides patient-level explanations, showing which features push an individ
   <img src="assets/lime-explanation.png" width="65%" alt="LIME explanation" />
 </p>
 
+My Contributions
+As the first author, I made the major technical contributions to the research and also contributed to the academic writing and presentation.
+
+## My contributions included:
+- Implementing the main data analysis and machine learning workflow.
+- Performing data preprocessing, exploratory data analysis, and statistical analysis.
+- Developing and evaluating supervised machine learning models.
+- Conducting clustering experiments and dimensionality-reduction analysis.
+- Applying SHAP and LIME for model explainability.
+- Contributing to the literature review, results, and discussion sections of the paper.
+- Preparing the presentation slides and presenting the research online at ICIDA 2025.
+
 ---
 
 ## 🗂️ Repository Structure
