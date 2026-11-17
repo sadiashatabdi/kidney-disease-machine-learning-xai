@@ -4,14 +4,23 @@ Machine Learning and Explainable AI for Kidney Disease Analysis — Springer Pub
 
 
 ---
+##Publication
+Chapter: Leveraging Machine Learning and Explainable AI for the Systematic Study of Kidney Disease
+Book: Innovations in Data Analytics
+Publisher: Springer Nature
+Conference: 4th International Conference on Innovations in Data Analytics (ICIDA 2025)
+Conference dates: 5–6 December 2025
+Publication year: 2026
+Pages: 434–444
+Author position: First Author  
 
+DOI: 10.1007/978-3-032-33698-9_31
 ## 📌 Overview
 
 Chronic Kidney Disease (CKD) is a major global health burden, and late diagnosis can lead to severe complications. This project builds an interpretable machine learning pipeline that predicts CKD using patient clinical, lifestyle, and laboratory information, while also explaining why the model makes each decision.
 
 This repository contains the implementation behind our paper, published in Innovations in Data Analytics (ICIDA 2025, Springer LNNS vol. 2099), and presented at the International Conference on Innovations in Data Analytics.
 
-📄 Paper: https://doi.org/10.1007/978-3-032-33698-9_31
 
 ### Research Questions
 
@@ -184,19 +193,6 @@ jupyter notebook notebooks/Balanced_Kidney_disease.ipynb
 ## 📄 Citation
 
 If you use this work, please cite the paper below:
-
-```bibtex
-@inproceedings{shatabdi2026kidney,
-  title     = {Leveraging Machine Learning and Explainable AI for the Systematic Study of Kidney Disease},
-  booktitle = {Innovations in Data Analytics (ICIDA 2025)},
-  series    = {Lecture Notes in Networks and Systems},
-  volume    = {2099},
-  pages     = {434--444},
-  publisher = {Springer, Cham},
-  year      = {2026},
-  doi       = {10.1007/978-3-032-33698-9_31}
-}
-```
 
 > Paper: https://doi.org/10.1007/978-3-032-33698-9_31
 
