@@ -71,12 +71,21 @@ Dataset → Preprocessing → EDA → Clustering & Visualization → Feature Ana
 
 ## 📈 Results
 
-### Model Performance
+## Model Results
 
-| Model | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) |
+The following are the classification metrics recorded in the notebook's initial model-evaluation cells, using its 30% test split:
+
+| Model | Accuracy | Precision | Recall | F1-score |
 |---|---:|---:|---:|---:|
-| **Random Forest** | **99.89** | **100.00** | **99.79** | **99.89** |
-| XGBoost | 98.80 | 100.00 | 97.67 | 98.82 |
+| Decision Tree | 94.43% | 100.00% | 89.19% | 94.29% |
+| Random Forest | 99.78% | 100.00% | 99.58% | 99.79% |
+| SVM | 97.92% | 100.00% | 95.97% | 97.95% |
+| Neural Network (MLP) | 96.94% | 100.00% | 94.07% | 96.94% |
+| XGBoost | 98.80% | 100.00% | 97.67% | 98.82% |
+| Logistic Regression | 79.23% | 81.33% | 77.54% | 79.39% |
+| KNN | 85.25% | 97.46% | 73.31% | 83.68% |
+
+> **Important:** These are notebook-reported experimental results on the dataset, not evidence of clinical readiness or performance on an independent clinical population. The notebook applies preprocessing before the train-test split, so the evaluation workflow should be reviewed for possible data leakage before interpreting the scores as unbiased generalization estimates. These results should not be treated as medical advice or as a validated diagnostic system.
 
 <p align="center">
   <img src="assets/confusion-matrix.png" width="40%" alt="Confusion matrix (XGBoost)" />
