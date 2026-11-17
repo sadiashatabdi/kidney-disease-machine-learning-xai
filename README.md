@@ -51,7 +51,6 @@ This repository contains the implementation behind our paper, published in Innov
 - Preprocessing: removal of non-informative columns such as PatientID and DoctorInCharge, StandardScaler for numerical features, and a class-balanced version of the data
 - Data file: not included in this repository; download it from the Kaggle link and place it where the notebook expects it
 
-> The dataset is publicly available on Kaggle. Please refer to the original source page for license and citation details.
 
 ---
 
