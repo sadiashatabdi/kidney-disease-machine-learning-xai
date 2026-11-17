@@ -2,7 +2,7 @@
 
 Machine Learning and Explainable AI for Kidney Disease Analysis — Springer Published Research
 
-##Publication
+## Publication
 Chapter: Leveraging Machine Learning and Explainable AI for the Systematic Study of Kidney Disease
 Book: Innovations in Data Analytics
 Publisher: Springer Nature
