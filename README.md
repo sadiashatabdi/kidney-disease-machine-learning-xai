@@ -68,6 +68,49 @@ Dataset → Preprocessing → EDA → Clustering & Visualization → Feature Ana
 6. Explainability: SHAP summary plots and LIME patient-specific explanations
 
 ---
+## Statistical Analysis
+
+The notebook formulates hypotheses concerning clinical and lifestyle-related variables and CKD diagnosis. The statistical methods used include:
+
+- Independent-samples t-test
+- One-way and two-way ANOVA
+- Chi-square test
+- Pearson correlation
+
+## Supervised Machine Learning
+
+The notebook trains and evaluates the following classification algorithms:
+
+- Decision Tree
+- Random Forest
+- Support Vector Machine (SVM)
+- Multi-Layer Perceptron (Neural Network)
+- XGBoost
+- Logistic Regression
+- K-Nearest Neighbors (KNN)
+
+The workflow includes a 70/30 train-test split, confusion matrices, accuracy, precision, recall, F1-score, and ROC curve analysis. Randomized search with cross-validation is used to tune Random Forest and XGBoost hyperparameters.
+
+## Unsupervised Learning and Dimensionality Reduction
+
+The notebook also explores:
+
+- K-Means clustering
+- DBSCAN
+- Gaussian Mixture Model (GMM)
+- Principal Component Analysis (PCA)
+- t-distributed Stochastic Neighbor Embedding (t-SNE)
+
+Clustering is assessed using the silhouette score and Davies–Bouldin index where applicable.
+
+## Explainable AI
+
+The notebook uses:
+
+- **SHAP** to examine feature contributions and model-level explanations
+- **LIME** to explain an individual prediction
+
+The explainability examples in the notebook are applied to an XGBoost classifier.
 
 ## 📈 Results
 
