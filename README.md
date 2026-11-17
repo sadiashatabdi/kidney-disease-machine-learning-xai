@@ -118,8 +118,7 @@ kidney-disease-machine-learning-xai/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── notebooks/
-│   └── Balanced_Kidney_disease.ipynb
+├── Balanced_Kidney_disease.ipynb
 └── assets/
     ├── eda-visualizations.png
     ├── model-comparison.png
