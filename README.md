@@ -2,16 +2,6 @@
 
 Machine Learning and Explainable AI for Kidney Disease Analysis — Springer Published Research
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-189AB4)
-![SHAP](https://img.shields.io/badge/Explainability-SHAP%20%7C%20LIME-8A2BE2)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sadiashatabdi/kidney-disease-machine-learning-xai/blob/main/Balanced_Kidney_disease.ipynb)
-[![Paper](https://img.shields.io/badge/Springer-ICIDA%202025-success)](https://doi.org/10.1007/978-3-032-33698-9_31)
-
-</div>
 
 ---
 
